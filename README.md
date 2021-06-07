@@ -32,5 +32,5 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alibas01&layout=compact&theme=merko&show_icons=true&hide_border=true&hide=Jupyter Notebook" width="auto" height="auto" />
 </p> -->
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alibas01&layout=compact&theme=merko&show_icons=true&hide_border=true&exclude_repo=Aviation-Safety-Issues,Classifying-Nature-Pictures, NECSI, Visualization, Relax-Challenge, Ultimate-Challenge, Movie-Critics-NB, JSON-Based-Data-Exercise, API-Data-Wrnagling-Mini-Project, Inferential-Statistics-Exercises,Boston-housing-prob" width="auto" height="auto" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alibas01&layout=compact&theme=merko&show_icons=true&hide_border=true&exclude_repo=Aviation-Safety-Issues,Classifying-Nature-Pictures, NECSI, Visualization, Relax-Challenge, Ultimate-Challenge, Movie-Critics-NB, JSON-Based-Data-Exercise, API-Data-Wrnagling-Mini-Project, Inferential-Statistics-Exercises,Boston-housing-prob, Heights-and-Weights, customer-segmentation" width="auto" height="auto" />
 </p>
