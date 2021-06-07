@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋, I am @alibas01
+
+- 🔭 I’m currently working on a social media app.
+- 🌱 I’m currently learning django and redux.
+- 🤔 Any help would be appreciated on vue, angular which will be my following learning opportunities.
+- 💬 Ask me about web development, DS, aviation..
+- 📫 How to reach me: alibas01@gmai.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Former Fighter Pilot ✈
 
 <!--
 **alibas01/alibas01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +22,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- ![Ali Bas' github stats](https://github-readme-stats.vercel.app/api?username=alibas01) -->
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=alibas01" width="auto" height="auto" />
+</p>
