@@ -28,6 +28,9 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=alibas01&theme=merko&show_icons=true&hide_border=true" width="auto" height="auto" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alibas01&layout=compact&theme=merko&show_icons=true&hide_border=true&hide=Jupyter Notebook" width="auto" height="auto" />
+</p> -->
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alibas01&layout=compact&theme=merko&show_icons=true&hide_border=true&exclude_repo=Aviation-Safety-Issues" width="auto" height="auto" />
 </p>
