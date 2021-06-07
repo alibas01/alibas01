@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 <!-- ![Ali Bas' github stats](https://github-readme-stats.vercel.app/api?username=alibas01) -->
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=alibas01" width="auto" height="auto" />
+<img src="https://github-readme-stats.vercel.app/api?username=alibas01&count_private=true&show_icons=true?theme=merko&include_all_commits&hide_border" width="auto" height="auto" />
 </p>
