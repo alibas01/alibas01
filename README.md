@@ -25,5 +25,9 @@ Here are some ideas to get you started:
 <!-- ![Ali Bas' github stats](https://github-readme-stats.vercel.app/api?username=alibas01) -->
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=alibas01&show_icons=true&theme=merko&show_icons=true&hide_border=true" width="auto" height="auto" />
+<img src="https://github-readme-stats.vercel.app/api?username=alibas01&theme=merko&show_icons=true&hide_border=true" width="auto" height="auto" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alibas01&layout=compact&theme=merko&show_icons=true&hide_border=true" width="auto" height="auto" />
 </p>
