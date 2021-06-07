@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning django and redux.
 - 🤔 Any help would be appreciated on vue, angular which will be my following learning opportunities.
 - 💬 Ask me about web development, DS, aviation..
-- 📫 How to reach me: alibas01@gmai.com
+- 📫 How to reach me: alibas01@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Former Fighter Pilot ✈
 
