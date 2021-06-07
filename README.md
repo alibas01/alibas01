@@ -4,9 +4,9 @@
 - 🌱 I’m currently learning django and redux.
 - 🤔 Any help would be appreciated on vue, angular which will be my following learning opportunities.
 - 💬 Ask me about web development, DS, aviation..
-- 📫 How to reach me: alibas01@gmai.com
+- 📫 How to reach me: alibas01@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Former Fighter Pilot ✈
+- ⚡ Fun fact: Former Pilot ✈
 
 <!--
 **alibas01/alibas01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,5 +25,12 @@ Here are some ideas to get you started:
 <!-- ![Ali Bas' github stats](https://github-readme-stats.vercel.app/api?username=alibas01) -->
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=alibas01" width="auto" height="auto" />
+<img src="https://github-readme-stats.vercel.app/api?username=alibas01&theme=merko&show_icons=true&hide_border=true" width="auto" height="auto" />
 </p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alibas01&layout=compact&theme=merko&show_icons=true&hide_border=true&hide=Jupyter Notebook" width="auto" height="auto" />
+</p>
+<!-- <p align="center"> -->
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alibas01&layout=compact&theme=merko&show_icons=true&hide_border=true&exclude_repo=Aviation-Safety-Issues,Classifying-Nature-Pictures, NECSI, Visualization, Relax-Challenge, Ultimate-Challenge, Movie-Critics-NB, JSON-Based-Data-Exercise, API-Data-Wrnagling-Mini-Project, Inferential-Statistics-Exercises,Boston-housing-prob, Heights-and-Weights, customer-segmentation" width="auto" height="auto" />
+</p> -->
