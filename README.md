@@ -1,7 +1,7 @@
 ### Hi there 👋, I am @alibas01
 
-- 🔭 I’m currently working on a social media app.
-- 🌱 I’m currently learning django and redux.
+- 🔭 I’m currently working as an analyst.
+- 🌱 I’m currently learning django and angular.
 - 🤔 Any help would be appreciated on vue, angular which will be my following learning opportunities.
 - 💬 Ask me about web development, DS, aviation..
 - 📫 How to reach me: alibas01@gmail.com
