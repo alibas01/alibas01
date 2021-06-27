@@ -1,7 +1,7 @@
 ### Hi there 👋, I am @alibas01
 
-- 🔭 I’m currently working as a part-time mentor.
-- 🌱 I’m currently learning django and angular.
+- 🔭 I’m currently working as a developer / data analytics at Elastic Personas.
+- 🌱 In my spare time, I’m learning django and angular.
 - 🤔 Any help would be appreciated on vue, angular which will be my following learning opportunities.
 - 💬 Ask me about web development, DS, aviation..
 - 📫 How to reach me: alibas01@gmail.com
