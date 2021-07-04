@@ -2,8 +2,8 @@
 
 - 🔭 I’m currently working as a developer / data analytics at Elastic Personas.
 - 🌱 In my spare time, I’m learning django and angular.
-- 🤔 Any help would be appreciated on vue, angular which will be my following learning opportunities.
-- 💬 Ask me about web development, DS, aviation..
+<!-- - 🤔 Any help would be appreciated on vue, angular which will be my following learning opportunities. -->
+- 💬 Ask me about Rails, React, DS, aviation..
 - 📫 How to reach me: alibas01@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Former Pilot ✈
