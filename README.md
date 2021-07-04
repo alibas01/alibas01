@@ -1,7 +1,7 @@
 ### Hi there 👋, I am @alibas01
 
-- 🔭 I’m currently working on a social media app.
-- 🌱 I’m currently learning django and redux.
+- 🔭 I’m currently working as a developer / data analytics at Elastic Personas.
+- 🌱 In my spare time, I’m learning django and angular.
 - 🤔 Any help would be appreciated on vue, angular which will be my following learning opportunities.
 - 💬 Ask me about web development, DS, aviation..
 - 📫 How to reach me: alibas01@gmail.com
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alibas01&layout=compact&theme=merko&show_icons=true&hide_border=true&hide=Jupyter Notebook" width="auto" height="auto" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alibas01&layout=compact&theme=merko&show_icons=true&hide_border=true&hide=Jupyter Notebook&langs_count=10" width="auto" height="auto" />
 </p>
 <!-- <p align="center"> -->
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alibas01&layout=compact&theme=merko&show_icons=true&hide_border=true&exclude_repo=Aviation-Safety-Issues,Classifying-Nature-Pictures, NECSI, Visualization, Relax-Challenge, Ultimate-Challenge, Movie-Critics-NB, JSON-Based-Data-Exercise, API-Data-Wrnagling-Mini-Project, Inferential-Statistics-Exercises,Boston-housing-prob, Heights-and-Weights, customer-segmentation" width="auto" height="auto" />
