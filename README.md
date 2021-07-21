@@ -1,5 +1,6 @@
+<p align="center">
 <img src="https://media.giphy.com/media/l0ErLT6LKwL4nUFmo/giphy.gif" height="80%">
-
+</p>
 ### Hi there 👋, I am @alibas01
 
 - 🔭 I’m currently working as a developer / data analytics at Elastic Personas.
