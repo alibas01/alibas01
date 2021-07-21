@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://media.giphy.com/media/l0ErLT6LKwL4nUFmo/giphy.gif" height="80%">
+<img src="https://chi01pap002files.storage.live.com/y4m8VjEu-PnfMpo9ykRjaQ49mGl6K2ar8nyzXpXaORHpGyAMuk3nUX7b74q7mKl5e_GuMXGSrhjlyKPUJllgl9hwz6pXNEtuL02DY-RB67_XVFQ4H77wJm0r0zczk0oybMt2iJP5WpI64FYJ9i6N2DkTdj38VO0BUx26tJA981VPpfogj3ij4XHC556vPhxjqeD?width=768&height=1024&cropmode=none" height="80%">
 </p>
 ### Hi there 👋, I am @alibas01
 
