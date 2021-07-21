@@ -1,10 +1,10 @@
 ### Hi there 👋, I am @alibas01
 
 - 🔭 I’m currently working as a developer / data analytics at Elastic Personas.
-- 🌱 In my spare time, I’m learning django and angular.
-<!-- - 🤔 Any help would be appreciated on vue, angular which will be my following learning opportunities. -->
+- These days, am very busy with AWS s3, Lambda, invoke and API gateway development. 
+- 🌱 In my spare time, I’m learning django and angular. 
 - 💬 Ask me about Rails, React, DS, aviation..
-- 📫 How to reach me: alibas01@gmail.com
+- 📫 How to reach me: alibas01 @ gmail.com, alibas.ca
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Former Pilot ✈
 
