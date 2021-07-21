@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/G65U0Ifs2Fums/giphy.gif" height="80%">
+<img src="https://media.giphy.com/media/l0ErLT6LKwL4nUFmo/giphy.gif" height="80%">
 
 ### Hi there 👋, I am @alibas01
 
