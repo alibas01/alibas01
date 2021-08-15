@@ -4,9 +4,9 @@
 
 ### Hi there 👋, I am @alibas01
 
-- 🔭 I’m currently working as a developer / data analytics at Elastic Personas.
+- 🔭 I’m currently working as a developer / data analytics.
 - These days, am very busy with AWS s3, Lambda, invoke and API gateway development. 
-- 🌱 In my spare time, I’m learning django and angular. 
+- 🌱 In my spare time, I’m learning django. 
 - 💬 Ask me about Rails, React, DS, aviation..
 - 📫 How to reach me: alibas01 @ gmail.com
 - 😄 Pronouns: He/Him
