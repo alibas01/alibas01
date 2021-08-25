@@ -38,3 +38,9 @@ Here are some ideas to get you started:
 <!-- <p align="center"> -->
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alibas01&layout=compact&theme=merko&show_icons=true&hide_border=true&exclude_repo=Aviation-Safety-Issues,Classifying-Nature-Pictures, NECSI, Visualization, Relax-Challenge, Ultimate-Challenge, Movie-Critics-NB, JSON-Based-Data-Exercise, API-Data-Wrnagling-Mini-Project, Inferential-Statistics-Exercises,Boston-housing-prob, Heights-and-Weights, customer-segmentation" width="auto" height="auto" />
 </p> -->
+
+### Let's Connect 🔗
+
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)](https://www.linkedin.com/in/alibas01/)
+[![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee)](https://twitter.com/AliBash01) 
+[![](https://img.shields.io/badge/instagram-%230077B5.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=8a3ab9)](https://www.instagram.com/al_bassss/)
