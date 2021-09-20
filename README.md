@@ -2,7 +2,7 @@
 <img src="https://chi01pap002files.storage.live.com/y4m7zfPT8NrVUTOH6NCOBLMH2BAoxUefaPCZcoNaXal9wej-NFffHVBnefNir8jn0y9APN7EFHt5tEzZ4sfaUXpGBX3cRKke3vcF8vBE6yEkIaZrt6BcM7FOQbAKcP8ZPk8Xi-vKojs6P9RK94fi0V14iKFMzuwE1RBHtCOXXXhj4LQXXbWbGeTd1xjhQ8vW02k?width=192&height=256&cropmode=none">
 </p>
 <br/>
-![Twitter Follow](https://img.shields.io/twitter/follow/AliBash01?style=social)
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/AliBash01?style=social">
 
 ### Hi there 👋, I am @alibas01
 
