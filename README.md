@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 ### Let's Connect 🔗
 
 
-[<img align="left" alt="alibas01.ca" width="30px" src="https://chi01pap002files.storage.live.com/y4m0KkTkz8zKxXhCgbuYfxUZWgj4HLSzOdWmXigfHz7-mkuyv22lNzNq-DnU7Q6_5QGHvpadnyY0TjzarpGP1xmtP34osjgp20iC-eObWCqqX91nRBCgIAJNcsA3Y_6GWAzhGxmZBVKfAes_T9VdbBvFLAVMFu_Igro8c2vZp3L5nw8-QsU7X0iFL1jlLVJrFp7?width=3601&height=3601&cropmode=none" />][website]
+[<img  alt="alibas01.ca" width="30px" src="https://chi01pap002files.storage.live.com/y4m0KkTkz8zKxXhCgbuYfxUZWgj4HLSzOdWmXigfHz7-mkuyv22lNzNq-DnU7Q6_5QGHvpadnyY0TjzarpGP1xmtP34osjgp20iC-eObWCqqX91nRBCgIAJNcsA3Y_6GWAzhGxmZBVKfAes_T9VdbBvFLAVMFu_Igro8c2vZp3L5nw8-QsU7X0iFL1jlLVJrFp7?width=3601&height=3601&cropmode=none" />][website]
 [<img  alt="alibas01 | Twitter" src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=26a69a" />][twitter]
 [<img  alt="alibas01 | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8" />][linkedin]
 [<img  alt="alibas01 | Instagram" src="https://img.shields.io/badge/instagram-%230077B5.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=8a3ab9" />][instagram]
