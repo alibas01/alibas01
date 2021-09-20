@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 ### Let's Connect 🔗
 
 
-[<img align="left" alt="alibas01.ca" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="alibas01.ca" width="30px" src="https://chi01pap002files.storage.live.com/y4mE7cFqoNDMEnd5lA1nA9rkAfmuBURN8out5xDfwZTa1YPfD1A0Yp570n37Bq6_hKvwzJJlv_BrBD3jj1rtyORIQqAGgD3hNA-GMbOBAuYH3QZfnsrQz7bIcyzsvwSQTxYZ4QVPTdWNyaJIjhI5g3OorsCnCeHuuo4TxSaLayEHTxB1HLmotAOJv2_K5HUPNx6?width=1000&height=1080&cropmode=none" />][website]
 [<img align="left" alt="alibas01 | Twitter" src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=26a69a" />][twitter]
 [<img align="left" alt="alibas01 | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8" />][linkedin]
 [<img align="left" alt="alibas01 | Instagram" src="https://img.shields.io/badge/instagram-%230077B5.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=8a3ab9" />][instagram]
