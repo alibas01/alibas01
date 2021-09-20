@@ -3,7 +3,7 @@
 </p>
 <br/>
 <p align="center">
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/AliBash01?style=social">
+[<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/AliBash01?style=social">][twitterfollow]
 </p>
 
 ### Hi there 👋, I am @alibas01
@@ -52,6 +52,7 @@ Here are some ideas to get you started:
 
 [website]: https://alibas.ca
 [twitter]: https://twitter.com/AliBash01
+[twitterfollow]: https://twitter.com/intent/user?screen_name=NASA
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://www.instagram.com/al_bassss/
 [linkedin]: https://www.linkedin.com/in/alibas01/
