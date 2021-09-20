@@ -40,10 +40,10 @@ Here are some ideas to get you started:
 ### Let's Connect 🔗
 
 
-[<img align="left" alt="alibas01.ca" width="60px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="alibas01 | Twitter" width="60px" src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=26a69a" />][twitter]
-[<img align="left" alt="alibas01 | LinkedIn" width="60px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8" />][linkedin]
-[<img align="left" alt="alibas01 | Instagram" width="60px" src="https://img.shields.io/badge/instagram-%230077B5.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=8a3ab9" />][instagram]
+[<img align="left" alt="alibas01.ca" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="alibas01 | Twitter" src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=26a69a" />][twitter]
+[<img align="left" alt="alibas01 | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8" />][linkedin]
+[<img align="left" alt="alibas01 | Instagram" src="https://img.shields.io/badge/instagram-%230077B5.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=8a3ab9" />][instagram]
 
 
 [website]: https://alibas.ca
