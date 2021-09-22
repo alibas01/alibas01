@@ -6,7 +6,7 @@
 
 </p>
 
-### Hi there 👋, I am @alibas01
+### Hi there 👋, I am Ali Bas
 
 - 🔭 I’m currently working as a developer / data analytics.
 - 💬 Ask me about Rails, React, DS, aviation..
