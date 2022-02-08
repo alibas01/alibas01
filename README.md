@@ -9,7 +9,7 @@
 ### Hi there 👋, I am Ali Bas
 
 - 🔭 I’m currently working as a program manager at PCC Aerostructures.
-- &#128512 I love coding and aviation. But these are more hobby to me since my job has nothing to do with these.
+- 😍 I love coding and aviation. But these are more hobby to me since my job has nothing to do with these.
 - 💬 Ask me about Rails, React, Data Science, aviation..
 - 📫 How to reach me: alibas01 @ gmail.com
 - 😄 Pronouns: He/Him
