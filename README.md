@@ -8,8 +8,9 @@
 
 ### Hi there 👋, I am Ali Bas
 
-- 🔭 I’m currently working as a program manager in aerospace manufacturing industry.
-- 💬 Ask me about Rails, React, DS, aviation..
+- 🔭 I’m currently working as a program manager at PCC Aerostructures.
+- I love coding and aviation. But these are more hobby to me since my job has nothing to do with these.
+- 💬 Ask me about Rails, React, Data Science, aviation..
 - 📫 How to reach me: alibas01 @ gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Former Pilot ✈
